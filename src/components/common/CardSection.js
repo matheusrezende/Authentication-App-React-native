@@ -19,4 +19,4 @@ const style = {
   }
 };
 
-export { CardSection: CardSection };
+export { CardSection };
